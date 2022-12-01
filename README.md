@@ -1,7 +1,7 @@
 # :sparkles: Advent of Code 2022 :sparkles:
 
 |Exercise Description|Solution|
-|---|---|
+|:---|:---|
 |[Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)|[py](/day01/main.py)|
 
 My solutions from previous years:
