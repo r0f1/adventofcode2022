@@ -10,6 +10,7 @@
 |[Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)          |[py](/day06/main.py), [alt](/day06/alt.py)|
 |[Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7) |[py](/day07/main.py), [alt](/day07/alt.py)|
 |[Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8)      |[py](/day08/main.py)|
+|[Day 9: Rope Bridge](https://adventofcode.com/2022/day/9)             |[py](/day09/main.py)|
 
 My solutions from previous years:
 * [r0f1/adventofcode2020](https://github.com/r0f1/adventofcode2020)
