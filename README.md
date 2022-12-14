@@ -15,6 +15,7 @@
 |[Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)    |[py](/day11/main.py)|
 |[Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) |[py](/day12/main.py)|
 |[Day 13: Distress Signal](https://adventofcode.com/2022/day/13)         |[py](/day13/main.py)|
+|[Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14)      |[py](/day14/main.py)|
 
 My solutions from previous years:
 * [r0f1/adventofcode2020](https://github.com/r0f1/adventofcode2020)
