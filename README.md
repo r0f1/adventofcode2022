@@ -16,6 +16,7 @@
 |[Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) |[py](/day12/main.py)|
 |[Day 13: Distress Signal](https://adventofcode.com/2022/day/13)         |[py](/day13/main.py)|
 |[Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14)      |[py](/day14/main.py)|
+|[Day 15: Beacon Exclusion Zone](https://adventofcode.com/2022/day/15)   |[py](/day15/main.py)|
 
 My solutions from previous years:
 * [r0f1/adventofcode2020](https://github.com/r0f1/adventofcode2020)
